@@ -224,8 +224,9 @@ public class HBaseDML {
 // System.out.println(cell);
 // List<String> strings = scanRows("bigdata", "student", "1001", "2000");
 // for (String string : strings) {
-// System.out.println(string);
-//        deleteColumn("bigdata", "student", "1001", "info", "name");
+ System.out.println("HELLO");
+//        deleteColumn("bigdata", "student", "1001", "info", "name");\
+
     }
 
 }

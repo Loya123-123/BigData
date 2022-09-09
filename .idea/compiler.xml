@@ -2,17 +2,24 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="HbaseTest" />
+        <module name="SparkTest" />
         <module name="HadoopTest" />
+        <module name="ZookeeperTest" />
+        <module name="KafkaTest" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="HadoopTest" target="1.8" />
-      <module name="HbaseTest" target="1.8" />
+      <module name="HbaseTest" target="8" />
+      <module name="KafkaTest" target="8" />
+      <module name="SparkTest" target="1.8" />
+      <module name="ZookeeperTest" target="7" />
     </bytecodeTargetLevel>
   </component>
 </project>

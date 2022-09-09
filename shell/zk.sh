@@ -8,21 +8,15 @@ fi
 case $1 in
 "start")
 
-        echo "=====================  $i  ======================="
-        ssh $i "source /etc/profile && /opt/zookeeper/bin/zkServer.sh start"
-
+        ssh root@node1 "xcall /opt/zookeeper/bin/zkServer.sh start"
 ;;
 "stop")
 
-        ssh $i "source /etc/profile && /opt/zookeeper/bin/zkServer.sh stop"
+        ssh root@node1 "xcall /opt/zookeeper/bin/zkServer.sh stop"
 
 ;;
 "status")
-        for i in node1 node2 node3
-    do
-        echo "=====================  $i  ======================="
-        ssh $i "source /etc/profile && /opt/zookeeper/bin/zkServer.sh status"
-    done
+       ssh root@node1 "xcall /opt/zookeeper/bin/zkServer.sh status"
 ;;
 *)
     echo "Input Args Error..."
