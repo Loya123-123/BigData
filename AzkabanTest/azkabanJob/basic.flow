@@ -1,0 +1,20 @@
+config:
+  retries: 3
+  retry.backoff: 10000
+nodes:
+  - name: jobC
+    type: command
+    # jobC 依赖 JobA 和 JobB
+    dependsOn:
+      - jobA
+      - jobB
+    config:
+      command: echo "I’m JobC"
+  - name: jobA
+    type: command
+    config:
+     command: echo "I’m JobA"
+  - name: jobB
+    type: command
+    config:
+     command: echo "I’m JobB"

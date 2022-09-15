@@ -17,7 +17,7 @@ object SparkKafkaConsumer {
 
     // 2 消费数据
     val kafkapara  = Map[String,Object](
-      ConsumerConfig.BOOTSTRAP_SERVERS_CONFIG->"hadoop102:9092,hadoop103:9092",
+      ConsumerConfig.BOOTSTRAP_SERVERS_CONFIG->"node1:9092,node2:9092,node3:9092",
       ConsumerConfig.KEY_DESERIALIZER_CLASS_CONFIG->classOf[StringDeserializer],
       ConsumerConfig.VALUE_DESERIALIZER_CLASS_CONFIG->classOf[StringDeserializer],
       ConsumerConfig.GROUP_ID_CONFIG->"test"

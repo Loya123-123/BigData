@@ -9,6 +9,9 @@
         <option value="$PROJECT_DIR$/SparkTest/pom.xml" />
         <option value="$PROJECT_DIR$/ZookeeperTest/pom.xml" />
         <option value="$PROJECT_DIR$/KafkaTest/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootBigData/pom.xml" />
+        <option value="$PROJECT_DIR$/AzkabanTest/pom.xml" />
+        <option value="$PROJECT_DIR$/HiveTest/pom.xml" />
       </list>
     </option>
   </component>

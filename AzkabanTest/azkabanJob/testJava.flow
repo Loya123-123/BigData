@@ -1,0 +1,7 @@
+nodes:
+  - name: test_java
+    type: javaprocess
+    config:
+      Xms: 96M
+      Xmx: 200M
+      java.class: com.yinjz.AzTest

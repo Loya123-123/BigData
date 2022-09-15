@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AzkabanTest/AzkabanTest.iml" filepath="$PROJECT_DIR$/AzkabanTest/AzkabanTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/BigData.iml" filepath="$PROJECT_DIR$/.idea/BigData.iml" />
       <module fileurl="file://$PROJECT_DIR$/HadoopTest/HadoopTest.iml" filepath="$PROJECT_DIR$/HadoopTest/HadoopTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/HbaseTest/HbaseTest.iml" filepath="$PROJECT_DIR$/HbaseTest/HbaseTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HiveTest/HiveTest.iml" filepath="$PROJECT_DIR$/HiveTest/HiveTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/KafkaTest/KafkaTest.iml" filepath="$PROJECT_DIR$/KafkaTest/KafkaTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/SparkTest/SparkTest.iml" filepath="$PROJECT_DIR$/SparkTest/SparkTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootBigData/SpringBootBigData.iml" filepath="$PROJECT_DIR$/SpringBootBigData/SpringBootBigData.iml" />
       <module fileurl="file://$PROJECT_DIR$/ZookeeperTest/ZookeeperTest.iml" filepath="$PROJECT_DIR$/ZookeeperTest/ZookeeperTest.iml" />
     </modules>
   </component>
