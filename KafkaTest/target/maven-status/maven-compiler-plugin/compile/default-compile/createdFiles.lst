@@ -1,0 +1,9 @@
+com/yinjz/kafka/consumer/CustomConsumerAutoOffset.class
+com/yinjz/kafka/consumer/CustomConsumerPartition.class
+com/yinjz/kafka/consumer/CustomConsumerSeek.class
+com/yinjz/kafka/consumer/CustomConsumerByHandSync.class
+com/yinjz/kafka/consumer/CustomConsumerSeekTime.class
+com/yinjz/kafka/producer/FlinkKafkaProducer1.class
+com/yinjz/kafka/KafkaConf.class
+com/yinjz/kafka/consumer/FlinkKafkaConsumer1.class
+com/yinjz/kafka/consumer/CustomConsumer2.class

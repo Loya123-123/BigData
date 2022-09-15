@@ -1,0 +1,4 @@
+com/yinjz/flink/chapter02/BatchWordCount.class
+com/yinjz/flink/chapter02/StreamWordCount.class
+com/yinjz/flink/chapter02/test.class
+com/yinjz/flink/chapter02/BoundedStreamWordCount.class

@@ -7,9 +7,9 @@ fi
 case $1 in
 "start")
         echo " =================== 启动 hadoop集群 ==================="
-
+         sh zk.sh start
          ssh root@node1 "/opt/hadoop/sbin/start-all.sh"
-        # ssh root@node1 "/opt/hadoop/sbin/mr-jobhistory-daemon.sh start historyserver"
+         ssh root@node1 "/opt/hadoop/sbin/mr-jobhistory-daemon.sh start historyserver"
 ;;
 "stop")
         echo " =================== 关闭 hadoop集群 ==================="
