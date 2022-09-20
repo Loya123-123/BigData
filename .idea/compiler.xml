@@ -7,32 +7,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ZookeeperTest" />
-        <module name="SpringBootBigData" />
-        <module name="FlinkTest" />
-        <module name="KafkaTest" />
-        <module name="HiveTest" />
         <module name="HbaseTest" />
         <module name="SparkTest" />
         <module name="HadoopTest" />
-        <module name="AzkabanTest" />
+        <module name="ZookeeperTest" />
+        <module name="KafkaTest" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="AzkabanTest" target="8" />
-      <module name="FlinkTest" target="8" />
       <module name="HadoopTest" target="1.8" />
       <module name="HbaseTest" target="8" />
-      <module name="HiveTest" target="8" />
       <module name="KafkaTest" target="8" />
       <module name="SparkTest" target="1.8" />
-      <module name="SpringBootBigData" target="1.8" />
       <module name="ZookeeperTest" target="7" />
     </bytecodeTargetLevel>
-  </component>
-  <component name="JavacSettings">
-    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="SpringBootBigData" options="-parameters" />
-    </option>
   </component>
 </project>
