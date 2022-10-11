@@ -35,7 +35,6 @@ public class BatchWordCount {
                 .returns(Types.TUPLE(Types.STRING, Types.LONG));
         //当Lambda表达式使用 Java 泛型的时候, 由于泛型擦除的存在, 需要显示的声明类型信息
 
-
         // 4. 按照 word 进行分组
         UnsortedGrouping<Tuple2<String, Long>> wordAndOneUG = wordAndOne.groupBy(0);
         // 5. 分组内聚合统计
@@ -43,6 +42,16 @@ public class BatchWordCount {
 
         // 6. 打印结果
         sum.print();
+
+        lineDS.flatMap(new FlatMapFunction<String, Tuple2<String, Long>>() {
+            @Override
+            public void flatMap(String line, Collector<Tuple2<String, Long>> out) throws Exception {
+                String[] words = line.split(" ");
+                for (String word : words) {
+                    out.collect(Tuple2.of(word, 1L));
+                }
+            }
+        }).returns(Types.TUPLE(Types.STRING, Types.LONG)).groupBy(0).sum(1).print();
     }
 }
 

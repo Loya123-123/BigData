@@ -33,7 +33,7 @@
         <id property="did" column="did"></id>
         <result property="deptName" column="dept_name"></result>
         <collection property="emps"
-                    select="com.atguigu.mybatis.mapper.EmpMapper.getDeptAndEmpByStepTwo"
+                    select="com.yinjz.flink.mybatis.mapper.EmpMapper.getDeptAndEmpByStepTwo"
                     column="did" fetchType="eager"></collection>
     </resultMap>
     <!--Dept getDeptAndEmpByStepOne(@Param("did") Integer did);-->

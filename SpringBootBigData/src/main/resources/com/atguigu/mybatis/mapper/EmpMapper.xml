@@ -73,7 +73,7 @@
             fetchType="lazy|eager":lazy表示延迟加载，eager表示立即加载
         -->
         <association property="dept"
-                     select="com.atguigu.mybatis.mapper.DeptMapper.getEmpAndDeptByStepTwo"
+                     select="com.yinjz.flink.mybatis.mapper.DeptMapper.getEmpAndDeptByStepTwo"
                      column="did"
                      fetchType="eager"></association>
     </resultMap>
