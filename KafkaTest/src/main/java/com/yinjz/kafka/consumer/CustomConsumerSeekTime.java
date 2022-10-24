@@ -2,6 +2,7 @@ package com.yinjz.kafka.consumer;
 
 import com.yinjz.kafka.KafkaConf;
 import org.apache.kafka.clients.consumer.*;
+import org.apache.kafka.clients.producer.ProducerConfig;
 import org.apache.kafka.common.TopicPartition;
 import org.apache.kafka.common.serialization.StringDeserializer;
 
@@ -12,7 +13,13 @@ public class CustomConsumerSeekTime {
 
     public static void main(String[] args) {
 
-        Properties properties = KafkaConf.Kafka_conf();
+        // 1. 创建 kafka 生产者的配置对象
+        Properties properties = new Properties();
+        // 2. 给 kafka 配置对象添加配置信息:bootstrap.servers
+        properties.put(ProducerConfig.BOOTSTRAP_SERVERS_CONFIG, "node1:9092,node2:9092,node3:9092");
+        // key,value 序列化(必须):key.serializer，value.serializer
+        properties.put(ConsumerConfig.KEY_DESERIALIZER_CLASS_CONFIG , StringDeserializer.class.getName());
+        properties.put(ConsumerConfig.VALUE_DESERIALIZER_CLASS_CONFIG,  StringDeserializer.class.getName());
         // 组id
         properties.put(ConsumerConfig.GROUP_ID_CONFIG,"test3");
 

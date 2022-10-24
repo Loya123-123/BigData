@@ -4,15 +4,50 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c51436c-514e-4a12-8c92-4ba2c8ff987d" name="Changes" comment="20221011提交更新">
+    <list default="true" id="7c51436c-514e-4a12-8c92-4ba2c8ff987d" name="Changes" comment="20221021提交更新">
+      <change afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KafkaTest/src/main/python/kafka_python_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KafkaTest/target/classes/kafka_python_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shell/datax脚本.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/BigData.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BigData.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KafkaTest/KafkaTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/KafkaTest/KafkaTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KafkaTest/src/main/java/com/yinjz/kafka/KafkaConf.java" beforeDir="false" afterPath="$PROJECT_DIR$/KafkaTest/src/main/java/com/yinjz/kafka/KafkaConf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KafkaTest/src/main/java/com/yinjz/kafka/consumer/CustomConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/KafkaTest/src/main/java/com/yinjz/kafka/consumer/CustomConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KafkaTest/src/main/java/com/yinjz/kafka/consumer/CustomConsumer1.java" beforeDir="false" afterPath="$PROJECT_DIR$/KafkaTest/src/main/java/com/yinjz/kafka/consumer/CustomConsumer1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KafkaTest/src/main/java/com/yinjz/kafka/consumer/CustomConsumer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/KafkaTest/src/main/java/com/yinjz/kafka/consumer/CustomConsumer2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KafkaTest/src/main/java/com/yinjz/kafka/consumer/CustomConsumerAutoOffset.java" beforeDir="false" afterPath="$PROJECT_DIR$/KafkaTest/src/main/java/com/yinjz/kafka/consumer/CustomConsumerAutoOffset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KafkaTest/src/main/java/com/yinjz/kafka/consumer/CustomConsumerByHandSync.java" beforeDir="false" afterPath="$PROJECT_DIR$/KafkaTest/src/main/java/com/yinjz/kafka/consumer/CustomConsumerByHandSync.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KafkaTest/src/main/java/com/yinjz/kafka/consumer/CustomConsumerPartition.java" beforeDir="false" afterPath="$PROJECT_DIR$/KafkaTest/src/main/java/com/yinjz/kafka/consumer/CustomConsumerPartition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KafkaTest/src/main/java/com/yinjz/kafka/consumer/CustomConsumerSeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/KafkaTest/src/main/java/com/yinjz/kafka/consumer/CustomConsumerSeek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KafkaTest/src/main/java/com/yinjz/kafka/consumer/CustomConsumerSeekTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/KafkaTest/src/main/java/com/yinjz/kafka/consumer/CustomConsumerSeekTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KafkaTest/src/main/java/com/yinjz/kafka/producer/CustomProducerCallbackPartitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/KafkaTest/src/main/java/com/yinjz/kafka/producer/CustomProducerCallbackPartitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KafkaTest/src/main/java/com/yinjz/kafka/producer/CustomProducerParameters.java" beforeDir="false" afterPath="$PROJECT_DIR$/KafkaTest/src/main/java/com/yinjz/kafka/producer/CustomProducerParameters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KafkaTest/src/main/java/com/yinjz/kafka/producer/CustomProducerSync.java" beforeDir="false" afterPath="$PROJECT_DIR$/KafkaTest/src/main/java/com/yinjz/kafka/producer/CustomProducerSync.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KafkaTest/src/main/java/com/yinjz/kafka/producer/CustomProducerTranactions.java" beforeDir="false" afterPath="$PROJECT_DIR$/KafkaTest/src/main/java/com/yinjz/kafka/producer/CustomProducerTranactions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KafkaTest/src/main/java/com/yinjz/kafka/producer/MyPartitioner.java" beforeDir="false" afterPath="$PROJECT_DIR$/KafkaTest/src/main/java/com/yinjz/kafka/producer/MyPartitioner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KafkaTest/target/classes/com/atguigu/kafka/consumer/CustomConsumer2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KafkaTest/target/classes/com/atguigu/kafka/consumer/CustomConsumerAutoOffset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KafkaTest/target/classes/com/atguigu/kafka/consumer/CustomConsumerByHandSync.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KafkaTest/target/classes/com/atguigu/kafka/consumer/CustomConsumerPartition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KafkaTest/target/classes/com/atguigu/kafka/consumer/CustomConsumerSeek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KafkaTest/target/classes/com/atguigu/kafka/consumer/CustomConsumerSeekTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KafkaTest/target/classes/com/yinjz/kafka/KafkaConf.class" beforeDir="false" afterPath="$PROJECT_DIR$/KafkaTest/target/classes/com/yinjz/kafka/KafkaConf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KafkaTest/target/classes/com/yinjz/kafka/producer/CustomProducerCallbackPartitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/KafkaTest/target/classes/com/yinjz/kafka/producer/CustomProducerCallbackPartitions.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="module" />
+    </option>
+  </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
@@ -20,6 +55,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -80,7 +116,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/shell" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/redis_test/src/main/java/com" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -92,11 +128,11 @@
       <recent name="com.yinjz.spark" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/redis_test/src/main/java/com" />
       <recent name="$PROJECT_DIR$/shell" />
       <recent name="$PROJECT_DIR$/FlinkTest/input" />
       <recent name="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink" />
       <recent name="$PROJECT_DIR$/SparkTest/src/main/scala/com/yinjz/spark/ODPS" />
-      <recent name="$PROJECT_DIR$/FlinkTest/src/main/resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/AzkabanTest/azkaban" />
@@ -121,13 +157,13 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StreamWordCount">
-    <configuration name="BatchWordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yinjz.flink.chapter02.BatchWordCount" />
-      <module name="FlinkTest" />
+  <component name="RunManager" selected="Python.kafka_python_demo">
+    <configuration name="CustomProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yinjz.kafka.producer.CustomProducer" />
+      <module name="KafkaTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value=".*" />
+          <option name="PATTERN" value="com.yinjz.kafka.producer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BoundedStreamWordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yinjz.flink.chapter02.BoundedStreamWordCount" />
-      <module name="FlinkTest" />
+    <configuration name="CustomProducerCallbackPartitions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yinjz.kafka.producer.CustomProducerCallbackPartitions" />
+      <module name="KafkaTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yinjz.flink.chapter02.*" />
+          <option name="PATTERN" value="com.yinjz.kafka.producer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +184,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SparkPi" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.yinjz.spark.ODPS.SparkPi" />
-      <module name="SparkTest" />
+    <configuration name="CustomProducerSync" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yinjz.kafka.producer.CustomProducerSync" />
+      <module name="KafkaTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yinjz.spark.ODPS.*" />
+          <option name="PATTERN" value="com.yinjz.kafka.producer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,15 +210,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.yinjz.spark.ODPS.WordCount" />
-      <module name="SparkTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yinjz.spark.ODPS.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="kafka_python_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="KafkaTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KafkaTest/src/main/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KafkaTest/src/main/python/kafka_python_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RedisTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="redis_test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.redistest.redis_test.RedisTestApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -216,21 +268,18 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.WordCount" />
-      <item itemvalue="Application.SparkPi" />
-      <item itemvalue="Application.BatchWordCount" />
-      <item itemvalue="Application.BoundedStreamWordCount" />
-      <item itemvalue="Application.StreamWordCount" />
+      <item itemvalue="Python.kafka_python_demo" />
       <item itemvalue="Spring Boot.SpringBootBigDataApplication" />
       <item itemvalue="Spring Boot.SpringBootBigDataApplication (1)" />
+      <item itemvalue="Spring Boot.RedisTestApplication" />
+      <item itemvalue="应用程序.CustomProducer" />
+      <item itemvalue="应用程序.CustomProducerCallbackPartitions" />
+      <item itemvalue="应用程序.CustomProducerSync" />
+      <item itemvalue="应用程序.StreamWordCount" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StreamWordCount" />
-        <item itemvalue="Application.BoundedStreamWordCount" />
-        <item itemvalue="Application.BatchWordCount" />
-        <item itemvalue="Application.SparkPi" />
-        <item itemvalue="Application.WordCount" />
+        <item itemvalue="Python.kafka_python_demo" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +315,17 @@
       <workItem from="1664248707550" duration="4000" />
       <workItem from="1665449905517" duration="1910000" />
       <workItem from="1665468856853" duration="2812000" />
-      <workItem from="1665555952232" duration="595000" />
+      <workItem from="1665555952232" duration="3697000" />
+      <workItem from="1665561936189" duration="3325000" />
+      <workItem from="1665631169856" duration="6740000" />
+      <workItem from="1665652091135" duration="642000" />
+      <workItem from="1665716525838" duration="5396000" />
+      <workItem from="1666000138303" duration="951000" />
+      <workItem from="1666075105959" duration="3846000" />
+      <workItem from="1666171350064" duration="2199000" />
+      <workItem from="1666332821593" duration="2517000" />
+      <workItem from="1666341693574" duration="2177000" />
+      <workItem from="1666576850881" duration="4780000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1662707683459</created>
@@ -296,7 +355,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665450354373</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="20221012提交更新">
+      <created>1665556831005</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665556831005</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,12 +371,32 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="019272cc-9806-4aac-bbd6-893f9564d5fe">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="7f0cd278-ff63-4221-ad58-030079ff4853">
+          <value>
+            <State />
+          </value>
+        </entry>
         <entry key="8dcd994c-5707-4e0b-822b-6bca0466aa75">
           <value>
             <State />
           </value>
         </entry>
         <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="a46d4357-567d-42e0-9004-1b5b3575cbb4">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="c6aff811-e9bc-4b73-b81f-99dd8ce1ee83">
           <value>
             <State />
           </value>
@@ -328,7 +414,9 @@
     <MESSAGE value="first" />
     <MESSAGE value="1" />
     <MESSAGE value="20221011提交更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="20221011提交更新" />
+    <MESSAGE value="20221012提交更新" />
+    <MESSAGE value="20221021提交更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="20221021提交更新" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -344,5 +432,8 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BigData$kafka_python_demo.coverage" NAME="kafka_python_demo Coverage Results" MODIFIED="1666076767424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KafkaTest/src/main/python" />
   </component>
 </project>
