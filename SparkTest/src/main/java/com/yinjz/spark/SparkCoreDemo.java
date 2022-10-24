@@ -23,14 +23,14 @@ public class SparkCoreDemo {
         //通过查看源码,我们发现,flatMap中需要的函数的参数是T(就是String)
         //返回值是Iterator
         //所以我们在函数体里面要返回Iterator
-        JavaRDD<String> wordRDD = stringJavaRDD.flatMap(line -> Arrays.asList(line.split(" ")).iterator());
-        //3.2每个单词记为1 (word,1)
-        JavaPairRDD<String, Integer> wordAndOneRDD = wordRDD.mapToPair(words -> new Tuple2<>(words, 1));
-        //3.3按照key进行聚合
-        JavaPairRDD<String, Integer> wordAndCountRDD = wordAndOneRDD.reduceByKey((a, b) -> a + b);
-        //4.收集结果并输出
-        List<Tuple2<String, Integer>> result = wordAndCountRDD.collect();
-        result.forEach(t -> System.out.println(t));
+//        JavaRDD<Object> wordRDD = stringJavaRDD.flatMap(line -> Arrays.asList(line.split(" ")).iterator());
+//        //3.2每个单词记为1 (word,1)
+//        JavaPairRDD<String, Integer> wordAndOneRDD = wordRDD.mapToPair(words -> new Tuple2<>(words, 1));
+//        //3.3按照key进行聚合
+//        JavaPairRDD<String, Integer> wordAndCountRDD = wordAndOneRDD.reduceByKey((a, b) -> a + b);
+//        //4.收集结果并输出
+//        List<Tuple2<String, Integer>> result = wordAndCountRDD.collect();
+//        result.forEach(t -> System.out.println(t));
 
         Thread time;
         Thread.sleep(100000);

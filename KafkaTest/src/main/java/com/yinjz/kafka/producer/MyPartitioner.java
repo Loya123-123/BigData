@@ -22,7 +22,7 @@ public class MyPartitioner implements Partitioner {
     消息的 value 序列化后的字节数组 集群元数据可以查看分区信息
 */
     @Override
-    public int partition(String topic, Object key, byte[] keyBytes, Object value, byte[] valueBytes, Cluster cluster) {
+    public int   partition(String topic, Object key, byte[] keyBytes, Object value, byte[] valueBytes, Cluster cluster) {
 
         // 获取数据 atguigu  hello
         String msgValues = value.toString();

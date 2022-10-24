@@ -1,0 +1,26 @@
+
+]
+java:S18541";Remove this useless assignment to local variable "stream4".(º¬Ôüÿÿÿÿ8‚Ş¶êÂ0
+X
+java:S1854+";Remove this useless assignment to local variable "stream3".(È´üâ8ƒŞ¶êÂ0
+]
+java:S1854(";Remove this useless assignment to local variable "stream2".(×¶Õ—ÿÿÿÿÿ8ƒŞ¶êÂ0
+_
+java:S1854#"=Remove this useless assignment to local variable "numStream".(Å«òšıÿÿÿÿ8ƒŞ¶êÂ0
+]
+java:S1854";Remove this useless assignment to local variable "stream1".(›öÉºüÿÿÿÿ8ƒŞ¶êÂ0
+N
+java:S1481",Remove this unused "stream1" local variable.(›öÉºüÿÿÿÿ8†Ş¶êÂ0
+P
+java:S1481#".Remove this unused "numStream" local variable.(Å«òšıÿÿÿÿ8‡Ş¶êÂ0
+N
+java:S1481(",Remove this unused "stream2" local variable.(×¶Õ—ÿÿÿÿÿ8‰Ş¶êÂ0
+I
+java:S1481+",Remove this unused "stream3" local variable.(È´üâ8ŠŞ¶êÂ0
+N
+java:S14811",Remove this unused "stream4" local variable.(º¬Ôüÿÿÿÿ8ŠŞ¶êÂ0
+]	java:S1253"<This block of commented-out lines of code should be removed.(­øäÜùÿÿÿÿ8‹Ş¶êÂ0
+r
+java:S1128"\Remove this unused import 'org.apache.flink.api.common.serialization.DeserializationSchema'.(£Ì‚Õ
+c
+java:S1128	"MRemove this unused import 'org.apache.kafka.clients.producer.ProducerConfig'.(ıä¢ó

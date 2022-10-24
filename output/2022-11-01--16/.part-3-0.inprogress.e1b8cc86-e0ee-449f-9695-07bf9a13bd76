@@ -1,0 +1,6 @@
+Event{user='Cary', url='./cart', timestamp=2022-11-01 16:52:59.68}
+Event{user='Mary', url='./prod?id=1', timestamp=2022-11-01 16:53:03.695}
+Event{user='Alice', url='./fav', timestamp=2022-11-01 16:53:07.71}
+Event{user='Alice', url='./prod?id=2', timestamp=2022-11-01 16:53:11.725}
+Event{user='Mary', url='./cart', timestamp=2022-11-01 16:53:15.738}
+Event{user='Mary', url='./fav', timestamp=2022-11-01 16:53:19.752}

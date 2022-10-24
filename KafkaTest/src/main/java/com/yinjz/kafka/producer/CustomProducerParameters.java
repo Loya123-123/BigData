@@ -24,10 +24,10 @@ public class CustomProducerParameters {
         // 缓冲区大小
         properties.put(ProducerConfig.BUFFER_MEMORY_CONFIG,33554432);
 
-        // 批次大小
+        // 批次大小 batch.size:批次大小，默认16K
         properties.put(ProducerConfig.BATCH_SIZE_CONFIG,16384);
 
-        // linger.ms
+        // linger.ms 等待时间，默认 0
         properties.put(ProducerConfig.LINGER_MS_CONFIG, 1);
 
         // 压缩

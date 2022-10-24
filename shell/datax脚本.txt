@@ -1,0 +1,79 @@
+/Users/loay/PycharmProjects/smart_etl/venv/bin/python /Users/loay/soft/datax/bin/datax3.py -p
+-Dusername_r=readonly_cdp
+-Dpassword_r=\"ycykT3Br9aCFnraA0PGS\"         
+-Dcolumns=\"id\",\"coupon_id\",\"qr_code\",\"status\",\"member_no\",\"member_mobile\",\"valid_start_time\",\"valid_end_time\",\"get_time\",\"write_off_time\",\"write_off_channel\",\"source_code\",\"write_off_entity_id\",\"write_off_entity_name\",\"operate_id\",\"operate_name\",\"is_validate\",\"create_time\",\"update_time\"         
+-DsplitPk=id         
+-Dwhere=\"(update_time > '2022-07-15 17:30:45' and update_time <= '2022-07-15 17:31:23') or update_time is null\"         
+-Dtable_r=coupon_instance         
+-DjdbcUrl_r=jdbc:mysql://rm-2ze8krf08i6l681vc.mysql.rds.aliyuncs.com:3306/snow-coupon         
+-Dusername_w=etl_snow         
+-Dpassword_w=etl_snow!!459         
+-DpreSql=\"select 1+1;\"         
+-DjdbcUrl_w=jdbc:mysql://rm-2ze6g13lmuw0cylhn.mysql.rds.aliyuncs.com:3306/snow?useUnicode=true\&characterEncoding=utf8         
+-Dtable_w=coupon_instance 
+ /Users/loay/PycharmProjects/smart_etl/extra_file/sunac/json/template.json > /var/etlLogs/sunac/coupon_instance_20220715173128.log 2>&1
+
+
+
+
+ {
+    "job": {
+        "setting": {
+            "speed": {
+                 "channel": 3
+            },
+            "errorLimit": {
+                "record": 0,
+                "percentage": 0.02
+            }
+        },
+        "content": [
+            {
+                "reader": {
+                    "name": "mysqlreader",
+                    "parameter": {
+                        "username": "${username_r}",
+                        "password": "${password_r}",
+                        "column": [ "${columns}" ],
+                        "splitPk": "${splitPk}",
+                        "where": "${where}",
+                        "connection": [
+                            {
+                                "table": [
+                                    "${table_r}"
+                                ],
+                                "jdbcUrl": [
+                                    "${jdbcUrl_r}"
+                                ]
+                            }
+                        ]
+                    }
+                },
+               "writer": {
+                    "name": "mysqlwriter",
+                    "parameter": {
+                        "writeMode": "replace",
+                        "username": "${username_w}",
+                        "password": "${password_w}",
+                        "column":  [ "*" ],
+                        "session": [
+                            "set session sql_mode='ANSI'"
+                        ],
+                        "preSql": [
+                            "${preSql}"
+                        ],
+                        "connection": [
+                            {
+                                "jdbcUrl": "${jdbcUrl_w}",
+                                "table": [
+                                    "${table_w}"
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        ]
+    }
+}
+

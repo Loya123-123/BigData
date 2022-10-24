@@ -1,0 +1,7 @@
+
+>
+java:S1604"(Make this anonymous inner class a lambda(ß­ôø
+‚
+java:S1128"gRemove this unused import 'org.apache.flink.streaming.api.windowing.assigners.EventTimeSessionWindows'.(ˆÜÄ·øÿÿÿÿ
+}
+java:S1128"gRemove this unused import 'org.apache.flink.streaming.api.windowing.assigners.SlidingEventTimeWindows'.(”’ç¤

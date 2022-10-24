@@ -1,0 +1,11 @@
+
+E
+java:S1604?"(Make this anonymous inner class a lambda(ßª8—ÿÓ’Ã0
+V
+java:S1854":Remove this useless assignment to local variable "stream".(™”¸*8ÕÀÓ’Ã0
+G
+java:S1481"+Remove this unused "stream" local variable.(™”¸*8×ÀÓ’Ã0
+W	java:S125"<This block of commented-out lines of code should be removed.(ÌşÈZ8™Û£’Ã0
+X	java:S1257"<This block of commented-out lines of code should be removed.(´®—Í8é¾Ò’Ã0
+‰
+java:S1128"gRemove this unused import 'org.apache.flink.streaming.api.functions.source.RichParallelSourceFunction'.(ğªÁ•úÿÿÿÿ8´…°’Ã0

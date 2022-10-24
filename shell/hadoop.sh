@@ -9,11 +9,11 @@ case $1 in
         echo " =================== 启动 hadoop集群 ==================="
          sh zk.sh start
          ssh root@node1 "/opt/hadoop/sbin/start-all.sh"
-         ssh root@node1 "/opt/hadoop/sbin/mr-jobhistory-daemon.sh start historyserver"
+         ssh root@node1 "/opt/hadoop/bin/mapred --daemon start historyserver"
 ;;
 "stop")
         echo " =================== 关闭 hadoop集群 ==================="
-        ssh root@node1 "/opt/hadoop/sbin/mr-jobhistory-daemon.sh stop historyserver"
+        ssh root@node1 "/opt/hadoop/bin/mapred --daemon stop historyserver"
         ssh root@node1 "/opt/hadoop/sbin/stop-all.sh"
 ;;
 *)

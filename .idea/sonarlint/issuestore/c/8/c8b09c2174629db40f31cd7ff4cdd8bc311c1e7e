@@ -1,0 +1,14 @@
+
+V
+java:S1854"";Remove this useless assignment to local variable "stream3".(ïß’úÿÿÿÿ
+Q
+java:S1854";Remove this useless assignment to local variable "stream2".(˜Ù¡‡
+Q
+java:S1854";Remove this useless assignment to local variable "stream1".(öÜÚÀ
+B
+java:S1481",Remove this unused "stream1" local variable.(öÜÚÀ
+B
+java:S1481",Remove this unused "stream2" local variable.(˜Ù¡‡
+G
+java:S1481"",Remove this unused "stream3" local variable.(ïß’úÿÿÿÿ
+V	java:S125,"<This block of commented-out lines of code should be removed.(Ëšşéùÿÿÿÿ

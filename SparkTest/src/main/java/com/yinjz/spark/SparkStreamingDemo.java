@@ -18,13 +18,13 @@ public class SparkStreamingDemo {
         JavaStreamingContext ssc = new JavaStreamingContext(jsc, Durations.seconds(5));
         jsc.setLogLevel("WARN");
 
-        JavaReceiverInputDStream<String> socketDStream = ssc.socketTextStream("localhost",9999);
-        JavaPairDStream<String, Integer> result = socketDStream
-                .flatMap(line -> Arrays.asList(line.split(" ")).iterator())
-                .mapToPair(word -> new Tuple2<>(word, 1))
-                .reduceByKey((a, b) -> a + b);
-
-        result.print();
+//        JavaReceiverInputDStream<String> socketDStream = ssc.socketTextStream("localhost",9999);
+//        JavaPairDStream<String, Integer> result = socketDStream
+//                .flatMap(line -> Arrays.asList(line.split(" ")).iterator())
+//                .mapToPair(word -> new Tuple2<>(word, 1))
+//                .reduceByKey((a, b) -> a + b);
+//
+//        result.print();
 
         ssc.start();
         ssc.awaitTermination();

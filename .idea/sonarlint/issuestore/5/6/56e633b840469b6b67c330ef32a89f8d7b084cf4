@@ -1,0 +1,15 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(×ù»ûÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(Í¯åÆ
+k	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÈŸúÿÿÿÿ
+{
+java:S1488"eImmediately return this expression instead of assigning it to the temporary variable "kafkaProducer".(Šï¹‡
+€
+java:S1488!"eImmediately return this expression instead of assigning it to the temporary variable "KafkaConsumer".(ÙÈŸúÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(Êñ­ã
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€¢ä½
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ù»ûÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í¯åÆ

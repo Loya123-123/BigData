@@ -1,0 +1,4 @@
+
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(ú»Åžúÿÿÿÿ
+W
+java:S1128"ARemove this unused import 'com.yinjz.kafka.KafkaConf.Kafka_conf'.(œÙ¤ƒ

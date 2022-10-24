@@ -15,12 +15,11 @@ public class HdfsClient {
 
         // 1 获取fs对象
         Configuration conf = new Configuration();
-        conf.set("dfs.replication", "2");
-        FileSystem fs = FileSystem.get(new URI("hdfs://node1:9000"), conf , "root");
+        FileSystem fs = FileSystem.get(new URI("hdfs://10.239.13.188:8020"), conf , "root");
 
-        // 2 执行上传API
-        fs.copyFromLocalFile(new Path("/banzhang.txt"), new Path("/xiaohua.txt"));
-
+//        // 2 执行上传API
+        fs.copyFromLocalFile(new Path("/Users/loay/idea-workspace/BigData/data/input/words.txt"), new Path("/words.txt"));
+        fs.printStatistics();
         // 3 关闭资源
         fs.close();
     }
@@ -116,7 +115,7 @@ public class HdfsClient {
 
         // 1 获取对象
         Configuration conf = new Configuration();
-        FileSystem fs = FileSystem.get(new URI("hdfs://node1:9000"), conf , "root");
+        FileSystem fs = FileSystem.get(new URI("hdfs://10.239.13.188:9000"), conf , "root");
 
         // 2 判断操作
         FileStatus[] listStatus = fs.listStatus(new Path("/"));
