@@ -4,841 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c51436c-514e-4a12-8c92-4ba2c8ff987d" name="Changes" comment="20230201提交更新">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_spullara_mustache_java_compiler_0_9_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_icu_icu4j_67_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_config_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ververica_flink_connector_mysql_cdc_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_47_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_apache_log4j_extras_1_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_hydromatic_eigenbase_properties_1_1_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_calcite_calcite_avatica_1_2_0_incubating.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_calcite_calcite_core_1_2_0_incubating.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_calcite_calcite_linq4j_1_2_0_incubating.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_client_2_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_framework_2_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_clients_1_15_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_connector_jdbc_1_15_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_hadoop_fs_1_15_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_java_1_15_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_rpc_akka_loader_1_15_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_runtime_1_15_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_shaded_asm_9_9_2_15_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_shaded_force_shading_15_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_shaded_guava_30_1_1_jre_15_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_shaded_netty_4_1_70_Final_15_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_shaded_zookeeper_3_3_5_9_15_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_table_api_bridge_base_1_15_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_table_planner_2_12_1_15_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_table_runtime_1_15_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_2_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_client_2_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_common_2_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_common_2_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_web_proxy_2_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hive_hive_ant_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hive_hive_exec_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queryparser_7_7_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_catalyst_2_12_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_hive_2_12_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_kvstore_2_12_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_streaming_2_12_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_streaming_kafka_0_10_2_12_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_token_provider_kafka_0_10_2_12_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_yarn_2_12_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_all_2_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_plugin_lang_mustache_client_6_8_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_23_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json4s_json4s_ast_2_12_3_6_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json4s_json4s_core_2_12_3_6_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json4s_json4s_jackson_2_12_3_6_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json4s_json4s_scalap_2_12_3_6_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_pentaho_pentaho_aggdesigner_algorithm_5_1_5_jhyde.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_roaringbitmap_RoaringBitmap_0_7_45.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_roaringbitmap_shims_0_7_45.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/038f4dd7ad0081f273f47551b8d42c5221f1cfc2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/0622db876404c0bc4baa474ae033283ad16d7b34" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/a/0a720da334baf41e3fe28c22c45b0d96112c37b9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0d019b4c7a4674cca624899fb3949bd27a4c6384" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0d39185c48a089df37f43f09dadaa000c5064dae" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/2/12f9ea81ffc5bd69ab09c538eaec30ab1570d4d0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/7/177bd8b5e4d94d60bb675f56dbcb7e6a9954eb53" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/a/1ad56559f69a6d907b35ba42e05bbffb7862d3d6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/4/24e3fc4b8daf142d2be0b796d27d2ea684cd2bc1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/5/2542d709a821d233a640f06adb468da9a6bdc53e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/29373fce7d113b65ee5ce0d843e5d392b7e29e57" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/2984a20a64735035f8d10cae2573ab35b4bd1569" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2c2b4e2396c17e95564e7ed0d265b6fe73757ee9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e40ffc31112e742edcf9c2c647b243ae1704bb1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/f/2fd8901a7004d0afe826355d9351adb4b9a3dd3a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/1/31abeecae53e8b5df37735d1c58aa72f360deb32" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/3/33cf4905d3d0b5c443f7bbda4ebaaa3b65121260" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/7/37301dd221c01f7eaa3e0359519ff159f88e95c6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3d18ea4f4baf58633796ee3b7644fd9591183bf0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/e/3e4f3e56450c886518f8900440748b1ba337e568" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3f5f06d62612f3bf59014a7409c8f4258ea1274f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/46651502ef4433d748d5011627beda20b2dffd58" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/539921da0b15fff1a7820ddc955755cca8a52c19" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/6/5619d802de43b7d9a1cb4cccc06182b52b771f6d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/6/56e633b840469b6b67c330ef32a89f8d7b084cf4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5c99056143dbc0ef1342a9b855100d53964a9830" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5e7ff8ea8f007407290439aa121d31d33f31e5e5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/783d4cf130aeaab97c9f1659e39dd874b532304f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7c0841e89d1399bc22eeb9338ca5dee15670f305" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7e4e89faffbe7c6ba4d18790639437948273f091" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/81f694f22e87a25c808044fc41f75ec50d56d1d0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/8/88a3cbf3d2bc42eb453a4a2e525ce218addb4168" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/7/97a85fc7305d4b99ccb158972594ad95d8334ce9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/e/9e74ac4e3338caa06a97725d83aa237f6320b61f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a1ca865be5d365f85d66c386f7207e18989e31d9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/5/b5a4cf9e467db2515584820ed8e64d08b567ae1d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b71e353a5e73ccbac6ce651b6a334b9256c923cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/beda14657a74acfeed97f8e729565e85fc52cf1d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bf4db93d3e5065f0dea5b02f6fcbb30576d099eb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c404cd7c9804508b587c0262a6a7fa38958e915f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c7bd3722c5ba376f021a3756aa8a119b3d15325e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c8b09c2174629db40f31cd7ff4cdd8bc311c1e7e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/0/d01f69a2c8fe5d2cd6c17b711aef47c5547063a6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/1/d15461d5a091d8220f067de266583f137755037a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/2/d23669df67f232f0c99b45e67d81d0cf126806cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/9/d981f72c38522299e329bdf38f7b069f432e55af" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/9/d9eb4e9855c187a65464a6ef419161a0de864398" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/e/def57b1aaf299b9be361a21679d5f9bb47de8f7a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/7/e71ed2339cdcd598a18d5617276fbc87cc8f4522" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/e/febd0e6206ae1d04a9838887f651d082feeec4af" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/1ce0b35d634530dcf34f9e3f6184d08b/chk-19/1361d962-969e-4534-9b00-0568d9e5fef0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/1ce0b35d634530dcf34f9e3f6184d08b/chk-19/163dcd55-9549-4e4c-9188-893b17eae0b3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/1ce0b35d634530dcf34f9e3f6184d08b/chk-19/1c988bd7-fa75-4e90-a460-f1f343303b03" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/1ce0b35d634530dcf34f9e3f6184d08b/chk-19/2127f555-1186-4f57-a107-f5e5ca81a0cd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/1ce0b35d634530dcf34f9e3f6184d08b/chk-19/38a0acf5-d1f7-4508-afbe-c70f134d6756" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/1ce0b35d634530dcf34f9e3f6184d08b/chk-19/3fd9b7af-7257-4ec3-9d3f-c132fa1f2e57" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/1ce0b35d634530dcf34f9e3f6184d08b/chk-19/408cbea7-07e0-4c05-92a5-065e04c083f3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/1ce0b35d634530dcf34f9e3f6184d08b/chk-19/41b3b13c-d437-4a82-b47e-60617122389b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/1ce0b35d634530dcf34f9e3f6184d08b/chk-19/4caa9a80-ceba-4e83-add4-4fcd6fca6776" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/1ce0b35d634530dcf34f9e3f6184d08b/chk-19/5e465126-546b-4547-a79e-a79587016a58" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/1ce0b35d634530dcf34f9e3f6184d08b/chk-19/677d1840-3cce-4d82-a578-172719ae7462" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/1ce0b35d634530dcf34f9e3f6184d08b/chk-19/73f2d8b9-3077-41e2-800c-20e2026634b5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/1ce0b35d634530dcf34f9e3f6184d08b/chk-19/7d6b2239-16e5-47c2-9975-06b23936a069" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/1ce0b35d634530dcf34f9e3f6184d08b/chk-19/83d77e5c-da1c-4f72-bea5-a25ab1622de5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/1ce0b35d634530dcf34f9e3f6184d08b/chk-19/_metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/1ce0b35d634530dcf34f9e3f6184d08b/chk-19/a8d733a9-24ae-46fa-81c4-d82ed1458df0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/1ce0b35d634530dcf34f9e3f6184d08b/chk-19/f0f76b19-559b-4422-849c-3d15bbde301e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/609078f20d9624788eff9458b8b0b665/chk-1/_metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/69f70c3b278e63268222ccbb3c74d810/chk-32/00f42896-11bb-4541-8245-8f170742c30d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/69f70c3b278e63268222ccbb3c74d810/chk-32/0c42ac83-2c3f-43d3-bc1f-226fa1ac4b97" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/69f70c3b278e63268222ccbb3c74d810/chk-32/0fc7a625-139c-4191-b2c2-331c33111c94" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/69f70c3b278e63268222ccbb3c74d810/chk-32/10cf6017-babe-4149-8794-de74f5d1057f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/69f70c3b278e63268222ccbb3c74d810/chk-32/14a9e1e3-2af5-4df1-9bc6-312157dcf471" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/69f70c3b278e63268222ccbb3c74d810/chk-32/1c373044-c05d-41bc-ad95-eba85c76cbc7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/69f70c3b278e63268222ccbb3c74d810/chk-32/2aaa7096-f24c-42c9-bb6b-0e0c1780c7b7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/69f70c3b278e63268222ccbb3c74d810/chk-32/2b6240ba-6d4e-4354-994d-bfaeb824cf96" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/69f70c3b278e63268222ccbb3c74d810/chk-32/2bdd7174-4fa5-4711-9f28-54bcd6b0076a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/69f70c3b278e63268222ccbb3c74d810/chk-32/328e4d5d-1f6d-44ed-998d-aecdef14c55c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/69f70c3b278e63268222ccbb3c74d810/chk-32/372b08a7-61dc-420a-b6bd-4833f226e3b8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/69f70c3b278e63268222ccbb3c74d810/chk-32/3b9db809-e45d-442f-adf2-f88032c7f28d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/69f70c3b278e63268222ccbb3c74d810/chk-32/3e1a93ff-45c6-43ac-9e82-72c1f4adbf0a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/69f70c3b278e63268222ccbb3c74d810/chk-32/58a7022e-f210-40c6-9b4b-5fdd2ac29036" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/69f70c3b278e63268222ccbb3c74d810/chk-32/590d803a-c70d-4f62-8453-bd38a5bf7beb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/69f70c3b278e63268222ccbb3c74d810/chk-32/5af5e47c-b15b-49a5-9416-6244a2b2b659" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/69f70c3b278e63268222ccbb3c74d810/chk-32/60c71dc3-4d79-4eba-8933-b54a2e03e43c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/69f70c3b278e63268222ccbb3c74d810/chk-32/7ad91a41-825b-4714-a355-33c1de6d7c1a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/69f70c3b278e63268222ccbb3c74d810/chk-32/7cfbdc62-deec-4722-9898-8707e528bb40" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/69f70c3b278e63268222ccbb3c74d810/chk-32/80fe454e-2537-4deb-b8d9-9aba49b903a4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/69f70c3b278e63268222ccbb3c74d810/chk-32/888ed2fc-2e69-445d-9c48-1faf051e8afc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/69f70c3b278e63268222ccbb3c74d810/chk-32/89da821d-ed73-4792-a765-1600ebe64e51" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/69f70c3b278e63268222ccbb3c74d810/chk-32/8ec87e62-62df-4c2f-8956-ba059004df6b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/69f70c3b278e63268222ccbb3c74d810/chk-32/947c7a4e-2077-412b-aac4-8116fa426950" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/69f70c3b278e63268222ccbb3c74d810/chk-32/9b1fcfd5-ec87-4a9c-8d76-d29465f95116" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/69f70c3b278e63268222ccbb3c74d810/chk-32/_metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/69f70c3b278e63268222ccbb3c74d810/chk-32/b04f3159-16c6-4f81-bd69-a63cc7022e65" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/69f70c3b278e63268222ccbb3c74d810/chk-32/bf19709a-bbf9-47d0-8959-c2bc0220d22d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/69f70c3b278e63268222ccbb3c74d810/chk-32/d16d39dc-b7dd-4ace-a89b-5a2371670dfd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/69f70c3b278e63268222ccbb3c74d810/chk-32/d1a8e483-e152-4782-a359-d4789c72e1c5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/69f70c3b278e63268222ccbb3c74d810/chk-32/e1659d4e-cfc3-4555-ba9f-a4f2978a1a6d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/69f70c3b278e63268222ccbb3c74d810/chk-32/ed8a2457-f885-4225-8ebf-4c847577dded" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/69f70c3b278e63268222ccbb3c74d810/chk-32/fcfec246-da4f-46d1-a8fc-05d30a74cd47" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/92dcdf3e4a1a79122e91fec1a2d4c89d/chk-1/_metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/982bdf779bf75b2c2f4b50ba59f27005/chk-15/0e7f771d-98d7-4f8f-a045-8cb036449918" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/982bdf779bf75b2c2f4b50ba59f27005/chk-15/17d57f01-9c11-4b1e-a4fd-c1e854767f74" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/982bdf779bf75b2c2f4b50ba59f27005/chk-15/1bd40759-0e89-4602-aac9-a75d54a8ccb0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/982bdf779bf75b2c2f4b50ba59f27005/chk-15/2ff4e558-7056-4fd9-b575-7a6423f4a6c9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/982bdf779bf75b2c2f4b50ba59f27005/chk-15/32b3c246-deae-4e59-a046-d509d214b3f2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/982bdf779bf75b2c2f4b50ba59f27005/chk-15/49caa004-cf35-4b18-8b48-9e3354d0a083" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/982bdf779bf75b2c2f4b50ba59f27005/chk-15/6a303b45-0d66-4ddc-a228-3d3875e5a811" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/982bdf779bf75b2c2f4b50ba59f27005/chk-15/97f192a8-7ac6-43da-96ce-3f11a8db34bc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/982bdf779bf75b2c2f4b50ba59f27005/chk-15/_metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/982bdf779bf75b2c2f4b50ba59f27005/chk-15/c273acaf-b0a9-4cee-a061-06008bbe95d5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/982bdf779bf75b2c2f4b50ba59f27005/chk-15/c2816ec5-ef09-4bbb-b9dd-26dc04eeae9a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/982bdf779bf75b2c2f4b50ba59f27005/chk-15/cefac614-555c-43c4-89cd-5d5cef4e0708" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/982bdf779bf75b2c2f4b50ba59f27005/chk-15/e6dcef42-7596-4d51-8f44-6c7cf40c462b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/982bdf779bf75b2c2f4b50ba59f27005/chk-15/ea2fb0d8-ddde-4401-bcb7-a339760395a3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/982bdf779bf75b2c2f4b50ba59f27005/chk-15/f3c2f232-9311-4ce6-b4ed-e05c314c4ae2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/982bdf779bf75b2c2f4b50ba59f27005/chk-15/f85ce97e-0459-47df-a502-b79550692b92" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/checkpoint/982bdf779bf75b2c2f4b50ba59f27005/chk-15/fc3a82fc-ea58-4efc-93ba-29b1f82a1b60" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/CDC/FlinkCDC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/CDC/FlinkCDC2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/CDC/FlinkSQLCDC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/CDC/func/CustomerDeserializationSchema.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/State_9/TwoSteamJoinExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/TableSQL_11/FakerSQL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/TimeWindow_6/WindowAggregate_PVUV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/TimeWindow_6/WindowTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/source/MockSourceFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/source/bean/AppAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/source/bean/AppCommon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/source/bean/AppDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/source/bean/AppError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/source/bean/AppMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/source/bean/AppNotice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/source/bean/AppPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/source/bean/AppStart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/source/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/source/enums/ActionId.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/source/enums/BasePageId.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/source/enums/DisplayType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/source/enums/ItemType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/source/enums/PageId.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/source/util/ConfigUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/source/util/ParamUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/source/util/RanOpt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/source/util/RandomNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/source/util/RandomNumString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/source/util/RandomOptionGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/tuning/BackpressureDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/tuning/DataStreamDataGenDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/tuning/RocksdbTuning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/tuning/SQLDataGenDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/tuning/SkewDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/tuning/SkewDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/tuning/SlideWindowDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/tuning/SqlDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/tuning/UidDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/tuning/UvDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/tuning/bean/AppCommonWithDay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/tuning/bean/MidCountAndWindowEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/tuning/bean/OrderInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/tuning/bean/UserInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/tuning/function/LocalKeyByFlatMapFunc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/tuning/function/NewMidRichMapFunc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/tuning/function/SplitTumbleWindowPAWF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/tuning/function/SplitWindowAggFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/evop/tuning/function/UvRichFilterFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/operator_5/TransPhysicalPatitioningTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/test/ClickSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/test/SinkTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HadoopTest/src/main/resources/core-site.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/Test.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/acc/Spark01_Acc.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/acc/Spark02_Acc.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/acc/Spark03_Acc.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/acc/Spark04_Acc_WordCount.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/acc/Spark05_Bc.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/acc/Spark06_Bc.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/framework/application/WordCountApplication.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/framework/common/TApplication.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/framework/common/TController.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/framework/common/TDao.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/framework/common/TService.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/framework/controller/WordCountController.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/framework/dao/WordCountDao.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/framework/service/WordCountService.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/framework/util/EnvUtil.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/builder/Spark01_RDD_Memory.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/builder/Spark01_RDD_Memory_Par.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/builder/Spark01_RDD_Memory_Par1.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/builder/Spark02_RDD_File.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/builder/Spark02_RDD_File1.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/builder/Spark02_RDD_File_Par.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/builder/Spark02_RDD_File_Par1.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/builder/Spark03_RDD_File_Par2.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/dep/Spark01_RDD_Dep.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/dep/Spark02_RDD_Dep.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/io/Spark01_RDD_IO_Load.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/io/Spark01_RDD_IO_Save.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/action/Spark01_RDD_Operator_Action.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/action/Spark02_RDD_Operator_Action.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/action/Spark03_RDD_Operator_Action.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/action/Spark04_RDD_Operator_Action.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/action/Spark05_RDD_Operator_Action.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/action/Spark06_RDD_Operator_Action.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/action/Spark07_RDD_Operator_Action.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark01_RDD_Operator_Transform.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark01_RDD_Operator_Transform_Par.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark01_RDD_Operator_Transform_Part.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark01_RDD_Operator_Transform_Test.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark02_RDD_Operator_Transform.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark02_RDD_Operator_Transform_Test.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark03_RDD_Operator_Transform.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark03_RDD_Operator_Transform1.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark04_RDD_Operator_Transform.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark04_RDD_Operator_Transform1.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark04_RDD_Operator_Transform2.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark05_RDD_Operator_Transform.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark05_RDD_Operator_Transform_Test.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark06_RDD_Operator_Transform.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark06_RDD_Operator_Transform1.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark06_RDD_Operator_Transform_Test.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark07_RDD_Operator_Transform.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark07_RDD_Operator_Transform_Test.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark08_RDD_Operator_Transform.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark09_RDD_Operator_Transform.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark10_RDD_Operator_Transform.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark11_RDD_Operator_Transform.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark12_RDD_Operator_Transform.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark12_RDD_Operator_Transform1.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark13_RDD_Operator_Transform.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark13_RDD_Operator_Transform1.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark14_RDD_Operator_Transform.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark15_RDD_Operator_Transform.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark16_RDD_Operator_Transform.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark17_RDD_Operator_Transform.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark17_RDD_Operator_Transform1.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark17_RDD_Operator_Transform2.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark18_RDD_Operator_Transform3.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark19_RDD_Operator_Transform.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark20_RDD_Operator_Transform.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark21_RDD_Operator_Transform.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark22_RDD_Operator_Transform.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark23_RDD_Operator_Transform.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/operator/transform/Spark24_RDD_Req.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/part/Spark01_RDD_Part.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/persist/Spark01_RDD_Persist.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/persist/Spark02_RDD_Persist.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/persist/Spark03_RDD_Persist.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/persist/Spark04_RDD_Persist.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/persist/Spark05_RDD_Persist.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/persist/Spark06_RDD_Persist.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/rdd/serial/Spark01_RDD_Serial.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/req/Spark01_Req1_HotCategoryTop10Analysis.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/req/Spark02_Req1_HotCategoryTop10Analysis1.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/req/Spark03_Req1_HotCategoryTop10Analysis2.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/req/Spark04_Req1_HotCategoryTop10Analysis3.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/req/Spark05_Req2_HotCategoryTop10SessionAnalysis.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/req/Spark06_Req3_PageflowAnalysis.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/test/Driver.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/test/Executor.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/test/Executor2.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/test/SubTask.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/test/Task.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/wc/Spark01_WordCount.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/wc/Spark02_WordCount1.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/core/wc/Spark03_WordCount.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/sql/Spark01_SparkSQL_Basic.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/sql/Spark02_SparkSQL_UDF.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/sql/Spark03_SparkSQL_UDAF.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/sql/Spark03_SparkSQL_UDAF1.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/sql/Spark03_SparkSQL_UDAF2.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/sql/Spark04_SparkSQL_JDBC.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/sql/Spark05_SparkSQL_Hive.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/sql/Spark06_SparkSQL_Test.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/sql/Spark06_SparkSQL_Test1.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/sql/Spark06_SparkSQL_Test2.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/streaming/SparkStreaming01_WordCount.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/streaming/SparkStreaming02_Queue.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/streaming/SparkStreaming03_DIY.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/streaming/SparkStreaming04_Kafka.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/streaming/SparkStreaming05_State.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/streaming/SparkStreaming06_State_Join.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/streaming/SparkStreaming06_State_Transform.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/streaming/SparkStreaming06_State_Window.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/streaming/SparkStreaming06_State_Window1.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/streaming/SparkStreaming07_Output.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/streaming/SparkStreaming07_Output1.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/streaming/SparkStreaming08_Close.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/streaming/SparkStreaming09_Resume.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/streaming/SparkStreaming10_MockData.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/streaming/SparkStreaming11_Req1.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/streaming/SparkStreaming11_Req1_BlackList.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/streaming/SparkStreaming11_Req1_BlackList1.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/streaming/SparkStreaming12_Req2.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/streaming/SparkStreaming13_Req3.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/streaming/SparkStreaming13_Req31.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/util/JDBCUtil.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkTest/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/clicks.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/words.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/2022-11-01--16/.part-3-0.inprogress.be12bf04-02b2-4e2e-8bc0-931a8cf69394" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/2022-11-01--16/.part-3-0.inprogress.d97c431a-87bb-4989-8335-c6e412e04389" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/2022-11-01--16/.part-3-0.inprogress.e1b8cc86-e0ee-449f-9695-07bf9a13bd76" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shell/doris.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_75.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_chuusai_shapeless_2_12_2_3_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_cbor_2_8_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_8_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_smile_2_8_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_smile_2_8_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_8_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_cbor_2_8_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_jaxrs_jackson_jaxrs_base_2_9_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_jaxrs_jackson_jaxrs_json_provider_2_9_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_9_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_docker_java_docker_java_api_3_2_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_docker_java_docker_java_transport_3_2_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_docker_java_docker_java_transport_zerodep_3_2_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fommil_netlib_core_1_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_luben_zstd_jni_1_4_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_luben_zstd_jni_1_4_4_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_luben_zstd_jni_1_4_8_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_luben_zstd_jni_1_4_9_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_wendykierp_JTransforms_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_hankcs_hanlp_portable_1_7_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_nimbusds_nimbus_jose_jwt_7_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_univocity_univocity_parsers_2_9_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_univocity_univocity_parsers_2_8_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_8_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_0_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_10_10.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_38.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_27.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_5_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_supercsv_super_csv_2_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_f2j_arpack_combined_all_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_8_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_7_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_arrow_arrow_format_2_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_arrow_arrow_memory_0_15_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_arrow_arrow_memory_core_2_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_arrow_arrow_vector_0_15_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_arrow_arrow_memory_netty_2_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_arrow_arrow_vector_2_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_arrow_arrow_format_0_15_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avro_avro_1_7_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_calcite_avatica_avatica_core_1_17_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_20.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_21.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_6_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_annotations_1_13_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_annotations_1_15_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_cep_2_12_1_13_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_rpc_core_1_15_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_clients_2_12_1_13_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_table_common_1_15_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_connector_base_1_13_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_connector_base_1_15_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_connector_elasticsearch6_2_12_1_13_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_connector_elasticsearch_base_1_15_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_connector_elasticsearch_base_2_12_1_13_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_connector_elasticsearch6_1_15_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_connector_files_1_13_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_connector_kafka_1_15_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_connector_jdbc_2_12_1_13_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_shaded_jackson_2_12_4_15_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_connector_kafka_2_12_1_13_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_core_1_13_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_core_1_15_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_csv_1_13_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_cep_1_15_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_file_sink_common_1_13_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_file_sink_common_1_15_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_hadoop_fs_1_13_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_optimizer_1_15_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_java_1_13_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_csv_1_15_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_metrics_core_1_13_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_metrics_core_1_15_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_optimizer_2_12_1_13_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_streaming_java_1_15_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_queryable_state_client_java_1_13_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_queryable_state_client_java_1_15_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_runtime_2_12_1_13_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_scala_2_12_1_13_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_scala_2_12_1_15_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_streaming_java_2_12_1_13_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_streaming_scala_2_12_1_13_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_streaming_scala_2_12_1_15_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_table_api_java_1_13_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_table_api_java_1_15_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_table_api_java_bridge_2_12_1_13_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_table_api_java_bridge_1_15_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_table_api_scala_2_12_1_13_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_table_api_scala_bridge_2_12_1_13_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_table_common_1_13_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_table_planner_blink_2_12_1_13_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_table_runtime_blink_2_12_1_13_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_force_shading_1_13_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_3_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_7_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_3_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_2_7_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_client_3_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_client_2_7_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_3_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_7_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_client_3_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_common_3_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_common_2_7_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_core_3_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_app_2_7_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_3_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_core_2_7_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_api_3_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_api_2_7_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_client_3_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_common_3_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hive_hive_beeline_2_3_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hive_hive_cli_2_3_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hive_hive_jdbc_2_3_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hive_hive_storage_api_2_7_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hive_hive_storage_api_2_7_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_2_6_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_2_8_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_12_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_12_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_analyzers_common_7_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_analyzers_common_7_7_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_backward_codecs_7_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_backward_codecs_7_7_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_core_7_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_misc_7_7_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_grouping_7_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_grouping_7_7_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_highlighter_7_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_highlighter_7_7_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_join_7_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_join_7_7_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_memory_7_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_memory_7_7_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_misc_7_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_core_7_7_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queries_7_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_suggest_7_7_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queryparser_7_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_sandbox_7_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queries_7_7_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_spatial3d_7_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_spatial3d_7_7_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_spatial_7_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_spatial_7_7_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_spatial_extras_7_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_spatial_extras_7_7_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_suggest_7_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_sandbox_7_7_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_orc_orc_core_1_5_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_orc_orc_core_1_5_10.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_orc_orc_mapreduce_1_5_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_orc_orc_mapreduce_1_5_10.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_orc_orc_shims_1_5_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_orc_orc_shims_1_5_10.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_catalyst_2_12_3_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_launcher_2_12_3_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_graphx_2_12_3_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_unsafe_2_12_3_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_hive_2_12_3_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_tags_2_12_3_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_hive_thriftserver_2_12_3_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_mllib_2_12_3_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_core_2_12_3_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_mllib_local_2_12_3_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_network_shuffle_2_12_3_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_sketch_2_12_3_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_sketch_2_12_3_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_sql_2_12_3_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_sql_2_12_3_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_sql_kafka_0_10_2_12_3_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_network_common_2_12_3_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_9_4_20_v20190813.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlet_9_4_20_v20190813.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_4_20_v20190813.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_webapp_9_4_20_v20190813.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_xml_9_4_20_v20190813.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_client_elasticsearch_rest_client_6_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_client_elasticsearch_rest_client_6_8_20.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_client_elasticsearch_rest_high_level_client_6_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_client_elasticsearch_rest_high_level_client_6_8_20.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_elasticsearch_6_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_elasticsearch_6_8_20.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_elasticsearch_cli_6_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_elasticsearch_cli_6_8_20.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_elasticsearch_core_6_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_elasticsearch_core_6_8_20.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_elasticsearch_secure_sm_6_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_elasticsearch_secure_sm_6_8_20.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_elasticsearch_x_content_6_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_elasticsearch_x_content_6_8_20.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_jna_4_5_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_jna_5_5_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_plugin_aggs_matrix_stats_client_6_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_plugin_aggs_matrix_stats_client_6_8_20.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_plugin_parent_join_client_6_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_plugin_parent_join_client_6_8_20.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_plugin_rank_eval_client_6_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_plugin_rank_eval_client_6_8_20.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_23_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_lz4_lz4_java_1_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_rnorth_duct_tape_duct_tape_1_0_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_rnorth_visible_assertions_visible_assertions_2_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_modules_scala_collection_compat_2_12_2_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_12_16.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scalanlp_breeze_2_12_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scalanlp_breeze_macros_2_12_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_testcontainers_database_commons_1_15_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_testcontainers_jdbc_1_15_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_testcontainers_postgresql_1_15_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_testcontainers_testcontainers_1_15_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_typelevel_algebra_2_12_2_0_0_M2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_typelevel_cats_kernel_2_12_2_0_0_M4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_typelevel_machinist_2_12_0_6_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_typelevel_macro_compat_2_12_1_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_typelevel_spire_2_12_0_17_0_M1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_typelevel_spire_macros_2_12_0_17_0_M1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_typelevel_spire_platform_2_12_0_17_0_M1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_typelevel_spire_util_2_12_0_17_0_M1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_8_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_7_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__pl_edu_icm_JLargeArrays_1_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/FlinkTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/FlinkTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter02/BatchWordCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/WordCount_2/BatchWordCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter02/BoundedStreamWordCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/WordCount_2/BoundedStreamWordCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter02/StreamWordCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/WordCount_2/StreamWordCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter05/ClickSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/operator_5/ClickSource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter05/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/operator_5/Event.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter05/SinkToEsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/operator_5/SinkToEsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter05/SinkToFileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/operator_5/SinkToFileTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter05/SinkToKafkaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/operator_5/SinkToKafkaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter05/SinkToMySQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/operator_5/SinkToMySQL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter05/SinkToRedisTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/operator_5/SinkToRedisTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter05/SourceCustomParallelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/operator_5/SourceCustomParallelTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter05/SourceCustomTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/operator_5/SourceCustomTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter05/SourceKafkaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/operator_5/SourceKafkaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter05/SourceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/operator_5/SourceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter05/TransFilterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/operator_5/TransFilterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter05/TransFlatmapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/operator_5/TransFlatmapTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter05/TransMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/operator_5/TransMapTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter05/TransPhysicalPatitioningTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter05/TransPojoAggregationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/operator_5/TransPojoAggregationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter05/TransReduceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/operator_5/TransReduceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter05/TransReturnTypeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/operator_5/TransReturnTypeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter05/TransRichFunctionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/operator_5/TransRichFunctionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter05/TransTupleAggreationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/operator_5/TransTupleAggreationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter05/TransUdfTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/operator_5/TransUdfTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter06/CustomWatermarkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/TimeWindow_6/CustomWatermarkTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter06/EmitWatermarkInSourceFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/TimeWindow_6/EmitWatermarkInSourceFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter06/ProcessLateDataExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/TimeWindow_6/ProcessLateDataExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter06/TriggerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/TimeWindow_6/TriggerExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter06/UrlViewCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/TimeWindow_6/UrlViewCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter06/UrlViewCountExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/TimeWindow_6/UrlViewCountExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter06/UvCountByWindowExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/TimeWindow_6/UvCountByWindowExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter06/WatermarkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/TimeWindow_6/WatermarkTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter06/WindowAggregateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/TimeWindow_6/WindowAggregateTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter06/WindowReduceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/TimeWindow_6/WindowReduceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter07/EventTimeTimerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/ProcessFunction_7/EventTimeTimerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter07/KeyedProcessTopN.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/ProcessFunction_7/KeyedProcessTopN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter07/ProcessAllWindowTopN.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/ProcessFunction_7/ProcessAllWindowTopN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter07/ProcessFunctionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/ProcessFunction_7/ProcessFunctionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter07/ProcessingTimeTimerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/ProcessFunction_7/ProcessingTimeTimerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter08/BillCheckExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/join_8/BillCheckExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter08/CoGroupTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/join_8/CoGroupTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter08/ConnectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/join_8/ConnectTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter08/IntervalJoinTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/join_8/IntervalJoinTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter08/SplitStreamByFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/join_8/SplitStreamByFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter08/SplitStreamByOutputTag.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/join_8/SplitStreamByOutputTag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter08/UnionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/join_8/UnionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter08/WindowJoinTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/join_8/WindowJoinTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter11/CommonApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/TableSQL_11/CommonApiTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter11/CumulateWindowExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/TableSQL_11/CumulateWindowExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter11/SimpleTableExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/TableSQL_11/SimpleTableExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter11/TableToStreamExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/TableSQL_11/TableToStreamExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter11/TimeAndWindowTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/TableSQL_11/TimeAndWindowTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter11/TopNExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/TableSQL_11/TopNExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter11/UdfTest_AggregateFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/TableSQL_11/UdfTest_AggregateFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter11/UdfTest_ScalarFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/TableSQL_11/UdfTest_ScalarFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter11/UdfTest_TableAggregatteFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/TableSQL_11/UdfTest_TableAggregatteFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter11/UdfTest_TableFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/TableSQL_11/UdfTest_TableFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter11/WindowTopNExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/TableSQL_11/WindowTopNExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter12/LoginEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/CEP_12/LoginEvent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter12/LoginFailDetectExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/CEP_12/LoginFailDetectExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter12/LoginFailDetectProExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/CEP_12/LoginFailDetectProExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter12/NFAExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/CEP_12/NFAExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter12/OrderEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/CEP_12/OrderEvent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chapter12/OrderTimeoutDetectExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/CEP_12/OrderTimeoutDetectExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chatper09/AverageTimestampExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/State_9/AverageTimestampExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chatper09/BroadcastStateExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/State_9/BroadcastStateExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chatper09/BufferingSinkExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/State_9/BufferingSinkExample_Checkpoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chatper09/FakeWindowExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/State_9/FakeWindowExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chatper09/PeriodicPvExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/State_9/PeriodicPvExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chatper09/StateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/State_9/StateTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/chatper09/TwoStreamFullJoinExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/State_9/TwoStreamFullJoinExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/src/main/resources/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/FlinkTest-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter02/BatchWordCount$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter02/BatchWordCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter02/BoundedStreamWordCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter02/StreamWordCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/ClickSource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/Event.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/SinkToEsTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/SinkToEsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/SinkToFileTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/SinkToKafkaTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/SinkToMySQL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/SinkToRedisTest$MyRedisMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/SinkToRedisTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/SourceCustomParallelTest$CustomSource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/SourceCustomParallelTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/SourceCustomTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/SourceKafkaTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/SourceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/TransFilterTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/TransFilterTest$UserFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/TransFilterTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/TransFlatmapTest$MyFlatMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/TransFlatmapTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/TransMapTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/TransMapTest$UserExtractor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/TransMapTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/TransPhysicalPatitioningTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/TransPhysicalPatitioningTest$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/TransPhysicalPatitioningTest$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/TransPhysicalPatitioningTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/TransPojoAggregationTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/TransReduceTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/TransReduceTest$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/TransReduceTest$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/TransReduceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/TransReturnTypeTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/TransReturnTypeTest$MyTuple2Mapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/TransReturnTypeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/TransRichFunctionTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/TransRichFunctionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/TransTupleAggreationTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/TransUdfTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/TransUdfTest$FlinkFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/TransUdfTest$KeyWordFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter05/TransUdfTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter06/CustomWatermarkTest$CustomPeriodicGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter06/CustomWatermarkTest$CustomWatermarkStrategy$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter06/CustomWatermarkTest$CustomWatermarkStrategy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter06/CustomWatermarkTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter06/EmitWatermarkInSourceFunction$ClickSourceWithWatermark.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter06/EmitWatermarkInSourceFunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter06/ProcessLateDataExample$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter06/ProcessLateDataExample$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter06/ProcessLateDataExample$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter06/ProcessLateDataExample$UrlViewCountAgg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter06/ProcessLateDataExample$UrlViewCountResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter06/ProcessLateDataExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter06/TriggerExample$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter06/TriggerExample$MyTrigger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter06/TriggerExample$WindowResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter06/TriggerExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter06/UrlViewCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter06/UrlViewCountExample$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter06/UrlViewCountExample$UrlViewCountAgg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter06/UrlViewCountExample$UrlViewCountResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter06/UrlViewCountExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter06/UvCountByWindowExample$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter06/UvCountByWindowExample$UvCountByWindow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter06/UvCountByWindowExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter06/WatermarkTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter06/WatermarkTest$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter06/WatermarkTest$WatermarkTestResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter06/WatermarkTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter06/WindowAggregateTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter06/WindowAggregateTest$AvgPv.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter06/WindowAggregateTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter06/WindowReduceTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter06/WindowReduceTest$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter06/WindowReduceTest$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter06/WindowReduceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter07/EventTimeTimerTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter07/EventTimeTimerTest$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter07/EventTimeTimerTest$CustomSource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter07/EventTimeTimerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter07/KeyedProcessTopN$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter07/KeyedProcessTopN$TopN$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter07/KeyedProcessTopN$TopN.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter07/KeyedProcessTopN$UrlViewCountAgg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter07/KeyedProcessTopN$UrlViewCountResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter07/KeyedProcessTopN.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter07/ProcessAllWindowTopN$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter07/ProcessAllWindowTopN$2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter07/ProcessAllWindowTopN$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter07/ProcessAllWindowTopN$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter07/ProcessAllWindowTopN.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter07/ProcessFunctionTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter07/ProcessFunctionTest$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter07/ProcessFunctionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter07/ProcessingTimeTimerTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter07/ProcessingTimeTimerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter08/BillCheckExample$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter08/BillCheckExample$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter08/BillCheckExample$OrderMatchResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter08/BillCheckExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter08/CoGroupTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter08/CoGroupTest$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter08/CoGroupTest$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter08/CoGroupTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter08/ConnectTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter08/ConnectTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter08/IntervalJoinTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter08/IntervalJoinTest$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter08/IntervalJoinTest$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter08/IntervalJoinTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter08/SplitStreamByFilter$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter08/SplitStreamByFilter$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter08/SplitStreamByFilter$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter08/SplitStreamByFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter08/SplitStreamByOutputTag$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter08/SplitStreamByOutputTag$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter08/SplitStreamByOutputTag$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter08/SplitStreamByOutputTag.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter08/UnionTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter08/UnionTest$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter08/UnionTest$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter08/UnionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter08/WindowJoinTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter08/WindowJoinTest$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter08/WindowJoinTest$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter08/WindowJoinTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter11/CommonApiTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter11/CumulateWindowExample$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter11/CumulateWindowExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter11/SimpleTableExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter11/TableToStreamExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter11/TimeAndWindowTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter11/TimeAndWindowTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter11/TopNExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter11/UdfTest_AggregateFunction$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter11/UdfTest_AggregateFunction$WeightedAverage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter11/UdfTest_AggregateFunction$WeightedAvgAccumulator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter11/UdfTest_AggregateFunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter11/UdfTest_ScalarFunction$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter11/UdfTest_ScalarFunction$MyHash.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter11/UdfTest_ScalarFunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter11/UdfTest_TableAggregatteFunction$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter11/UdfTest_TableAggregatteFunction$Top2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter11/UdfTest_TableAggregatteFunction$Top2Accumulator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter11/UdfTest_TableAggregatteFunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter11/UdfTest_TableFunction$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter11/UdfTest_TableFunction$MySplit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter11/UdfTest_TableFunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter11/WindowTopNExample$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter11/WindowTopNExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter12/LoginEvent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter12/LoginFailDetectExample$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter12/LoginFailDetectExample$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter12/LoginFailDetectExample$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter12/LoginFailDetectExample$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter12/LoginFailDetectExample$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter12/LoginFailDetectExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter12/LoginFailDetectProExample$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter12/LoginFailDetectProExample$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter12/LoginFailDetectProExample$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter12/LoginFailDetectProExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter12/NFAExample$State.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter12/NFAExample$StateMachineMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter12/NFAExample$Transition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter12/NFAExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter12/OrderEvent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter12/OrderTimeoutDetectExample$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter12/OrderTimeoutDetectExample$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter12/OrderTimeoutDetectExample$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter12/OrderTimeoutDetectExample$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter12/OrderTimeoutDetectExample$OrderPayPatternProcessFunction$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter12/OrderTimeoutDetectExample$OrderPayPatternProcessFunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chapter12/OrderTimeoutDetectExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chatper09/AverageTimestampExample$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chatper09/AverageTimestampExample$AvgTsResult$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chatper09/AverageTimestampExample$AvgTsResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chatper09/AverageTimestampExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chatper09/BroadcastStateExample$Action.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chatper09/BroadcastStateExample$Pattern.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chatper09/BroadcastStateExample$PatternEvaluator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chatper09/BroadcastStateExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chatper09/BufferingSinkExample$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chatper09/BufferingSinkExample$BufferingSink.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chatper09/BufferingSinkExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chatper09/FakeWindowExample$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chatper09/FakeWindowExample$FakeWindowResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chatper09/FakeWindowExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chatper09/PeriodicPvExample$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chatper09/PeriodicPvExample$PeriodicPvResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chatper09/PeriodicPvExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chatper09/StateTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chatper09/StateTest$MyFlatMap$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chatper09/StateTest$MyFlatMap$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chatper09/StateTest$MyFlatMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chatper09/StateTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chatper09/TwoStreamFullJoinExample$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chatper09/TwoStreamFullJoinExample$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chatper09/TwoStreamFullJoinExample$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/com/yinjz/flink/chatper09/TwoStreamFullJoinExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/FlinkTest/target/classes/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlinkTest/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HadoopTest/src/main/java/com/yinjz/hdfs/HdfsClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/HadoopTest/src/main/java/com/yinjz/hdfs/HdfsClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HadoopTest/src/main/resources/hdfs-site.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HadoopTest/src/main/resources/hdfs-site.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HadoopTest/target/classes/com/yinjz/hdfs/HdfsClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/HadoopTest/target/classes/com/yinjz/hdfs/HdfsClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HadoopTest/target/classes/hdfs-site.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HadoopTest/target/classes/hdfs-site.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KafkaTest/KafkaTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/KafkaTest/KafkaTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KafkaTest/src/main/java/com/yinjz/kafka/KafkaConf.java" beforeDir="false" afterPath="$PROJECT_DIR$/KafkaTest/src/main/java/com/yinjz/kafka/KafkaConf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KafkaTest/target/classes/com/yinjz/kafka/KafkaConf.class" beforeDir="false" afterPath="$PROJECT_DIR$/KafkaTest/target/classes/com/yinjz/kafka/KafkaConf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KafkaTest/target/classes/com/yinjz/kafka/consumer/CustomConsumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/KafkaTest/target/classes/com/yinjz/kafka/consumer/CustomConsumer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KafkaTest/target/classes/com/yinjz/kafka/consumer/CustomConsumer1.class" beforeDir="false" afterPath="$PROJECT_DIR$/KafkaTest/target/classes/com/yinjz/kafka/consumer/CustomConsumer1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KafkaTest/target/classes/com/yinjz/kafka/consumer/CustomConsumer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/KafkaTest/target/classes/com/yinjz/kafka/consumer/CustomConsumer2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KafkaTest/target/classes/com/yinjz/kafka/consumer/CustomConsumerAutoOffset.class" beforeDir="false" afterPath="$PROJECT_DIR$/KafkaTest/target/classes/com/yinjz/kafka/consumer/CustomConsumerAutoOffset.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KafkaTest/target/classes/com/yinjz/kafka/consumer/CustomConsumerByHandSync.class" beforeDir="false" afterPath="$PROJECT_DIR$/KafkaTest/target/classes/com/yinjz/kafka/consumer/CustomConsumerByHandSync.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KafkaTest/target/classes/com/yinjz/kafka/consumer/CustomConsumerPartition.class" beforeDir="false" afterPath="$PROJECT_DIR$/KafkaTest/target/classes/com/yinjz/kafka/consumer/CustomConsumerPartition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KafkaTest/target/classes/com/yinjz/kafka/consumer/CustomConsumerSeek.class" beforeDir="false" afterPath="$PROJECT_DIR$/KafkaTest/target/classes/com/yinjz/kafka/consumer/CustomConsumerSeek.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KafkaTest/target/classes/com/yinjz/kafka/consumer/CustomConsumerSeekTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/KafkaTest/target/classes/com/yinjz/kafka/consumer/CustomConsumerSeekTime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KafkaTest/target/classes/kafka_python_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/KafkaTest/target/classes/kafka_python_demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SparkTest/SparkTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SparkTest/SparkTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SparkTest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SparkTest/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/IndexInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/SparkCoreDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/SparkCoreDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/SparkStreamingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark/SparkStreamingDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SparkTest/src/main/scala/com/yinjz/spark/RDD/SouGouQueryAnalysis.scala" beforeDir="false" afterPath="$PROJECT_DIR$/SparkTest/src/main/scala/com/yinjz/spark/RDD/SouGouQueryAnalysis.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SparkTest/src/main/scala/com/yinjz/spark/RDD/SougouSearchLogAnalysis2.scala" beforeDir="false" afterPath="$PROJECT_DIR$/SparkTest/src/main/scala/com/yinjz/spark/RDD/SougouSearchLogAnalysis2.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shell/hadoop.sh" beforeDir="false" afterPath="$PROJECT_DIR$/shell/hadoop.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shell/常用命令.sh" beforeDir="false" afterPath="$PROJECT_DIR$/shell/常用脚本/常用命令.sh" afterDir="false" />
-    </list>
+    <list default="true" id="7c51436c-514e-4a12-8c92-4ba2c8ff987d" name="Changes" comment="20221024提交更新" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -871,6 +37,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../BigData_SoundCode/datahub-demo/src/Flink-datastreaming-1.0-SNAPSHOT-jar-with-dependencies.jar!/com/sunac/flink/util/DatahubSynchConfig.class" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -891,6 +60,7 @@
     </option>
   </component>
   <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
@@ -916,13 +86,21 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/SQL 方言" value="HiveQL&#10;SparkSQL" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/新建临时文件" value="MySQL&#10;SQL" />
+    <property name="database.data.extractors.current.export.id" value="Comma-separated (CSV)_id" />
+    <property name="database.data.extractors.current.id" value="Comma-separated (CSV)_id" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/shell" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/DatahubTest/src/main/java/com/sunac/flink/Source" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="库" />
+    <property name="project.structure.last.edited" value="全局库" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3494253" />
-    <property name="settings.editor.selected.configurable" value="bigdataide_conn_settings" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -930,18 +108,18 @@
       <recent name="com.yinjz.spark" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/word/document" />
+      <recent name="$PROJECT_DIR$/SparkTest/src/main/scala/com/yinjz" />
+      <recent name="$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/operator_5/doris" />
+      <recent name="$PROJECT_DIR$/DatahubTest/src/main/resources" />
       <recent name="$PROJECT_DIR$/shell" />
-      <recent name="$PROJECT_DIR$/HadoopTest/src/main/resources" />
-      <recent name="$PROJECT_DIR$/SparkTest/src/main/java/com/yinjz/spark" />
-      <recent name="$PROJECT_DIR$/SparkTest/target/classes" />
-      <recent name="$PROJECT_DIR$/SparkTest/src/main/resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$APPLICATION_CONFIG_DIR$/scratches" />
+      <recent name="$PROJECT_DIR$/SQL" />
+      <recent name="$PROJECT_DIR$/SQL/DorisSQL" />
       <recent name="$PROJECT_DIR$/shell/常用脚本" />
       <recent name="$PROJECT_DIR$/AzkabanTest/azkaban" />
-      <recent name="$PROJECT_DIR$/AzkabanTest" />
-      <recent name="$PROJECT_DIR$/azkaban/JobA" />
-      <recent name="$PROJECT_DIR$/SpringBootBigData/src/main/resources/com/yinjz/mybatis" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -949,6 +127,7 @@
       <recent name="com.yinjz.hbase" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yinjz.flink.test" />
       <recent name="com.yinjz.flink.chapter06" />
       <recent name="com.yinjz.spark.ODPS" />
     </key>
@@ -960,13 +139,13 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="应用程序.FakerSQL">
-    <configuration name="FakerSQL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yinjz.flink.TableSQL_11.FakerSQL" />
+  <component name="RunManager" selected="应用程序.BatchWordCount">
+    <configuration name="BatchWordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yinjz.flink.WordCount_2.BatchWordCount" />
       <module name="FlinkTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yinjz.flink.TableSQL_11.*" />
+          <option name="PATTERN" value="com.yinjz.flink.WordCount_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -974,25 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Spark02_WordCount1 (1)" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.yinjz.spark.core.wc.Spark02_WordCount1" />
-      <module name="SparkTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yinjz.spark.core.wc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TopNExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yinjz.flink.TableSQL_11.TopNExample" />
+    <configuration name="WordToKafkaSync" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yinjz.flink.test.WordToKafkaSync" />
       <module name="FlinkTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yinjz.flink.TableSQL_11.*" />
+          <option name="PATTERN" value="com.yinjz.flink.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1000,34 +166,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HdfsClient.testCopyFromLocalFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="HadoopTest" />
+    <configuration name="doriswindowgroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yinjz.flink.test.doriswindowgroup" />
+      <module name="FlinkTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yinjz.hdfs.*" />
+          <option name="PATTERN" value="com.yinjz.flink.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.yinjz.hdfs" />
-      <option name="MAIN_CLASS_NAME" value="com.yinjz.hdfs.HdfsClient" />
-      <option name="METHOD_NAME" value="testCopyFromLocalFile" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HdfsClient.testListStatus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="HadoopTest" />
+    <configuration name="mysql2doris" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yinjz.flink.test.mysql2doris" />
+      <module name="FlinkTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yinjz.hdfs.*" />
+          <option name="PATTERN" value="com.yinjz.flink.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.yinjz.hdfs" />
-      <option name="MAIN_CLASS_NAME" value="com.yinjz.hdfs.HdfsClient" />
-      <option name="METHOD_NAME" value="testListStatus" />
-      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mysql2doris_travel_city" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yinjz.flink.test.mysql2doris_travel_city" />
+      <module name="FlinkTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yinjz.flink.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -1082,24 +255,24 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.HdfsClient.testListStatus" />
-      <item itemvalue="JUnit.HdfsClient.testCopyFromLocalFile" />
       <item itemvalue="Spring Boot.SpringBootBigDataApplication" />
       <item itemvalue="Spring Boot.SpringBootBigDataApplication (1)" />
       <item itemvalue="Spring Boot.RedisTestApplication" />
       <item itemvalue="Spring Boot.GmallPublisher2022Application" />
       <item itemvalue="Spring Boot.GmallPublisher1Application" />
-      <item itemvalue="应用程序.Spark02_WordCount1 (1)" />
-      <item itemvalue="应用程序.FakerSQL" />
-      <item itemvalue="应用程序.TopNExample" />
+      <item itemvalue="应用程序.mysql2doris" />
+      <item itemvalue="应用程序.doriswindowgroup" />
+      <item itemvalue="应用程序.mysql2doris_travel_city" />
+      <item itemvalue="应用程序.WordToKafkaSync" />
+      <item itemvalue="应用程序.BatchWordCount" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.FakerSQL" />
-        <item itemvalue="应用程序.TopNExample" />
-        <item itemvalue="JUnit.HdfsClient.testCopyFromLocalFile" />
-        <item itemvalue="JUnit.HdfsClient.testListStatus" />
-        <item itemvalue="应用程序.Spark02_WordCount1 (1)" />
+        <item itemvalue="应用程序.BatchWordCount" />
+        <item itemvalue="应用程序.WordToKafkaSync" />
+        <item itemvalue="应用程序.doriswindowgroup" />
+        <item itemvalue="应用程序.mysql2doris_travel_city" />
+        <item itemvalue="应用程序.mysql2doris" />
       </list>
     </recent_temporary>
   </component>
@@ -1176,7 +349,33 @@
       <workItem from="1672733022190" duration="22484000" />
       <workItem from="1672988836722" duration="5038000" />
       <workItem from="1675132448491" duration="1687000" />
-      <workItem from="1675214707952" duration="2130000" />
+      <workItem from="1675214707952" duration="15849000" />
+      <workItem from="1675243786048" duration="1549000" />
+      <workItem from="1675325090519" duration="5279000" />
+      <workItem from="1675665219811" duration="2904000" />
+      <workItem from="1675757132627" duration="4089000" />
+      <workItem from="1675820912700" duration="10577000" />
+      <workItem from="1676008396463" duration="4716000" />
+      <workItem from="1676277656221" duration="1272000" />
+      <workItem from="1676280211755" duration="2627000" />
+      <workItem from="1676284265209" duration="1022000" />
+      <workItem from="1676343168248" duration="2831000" />
+      <workItem from="1676444079853" duration="7815000" />
+      <workItem from="1676531187380" duration="12789000" />
+      <workItem from="1676970790629" duration="3737000" />
+      <workItem from="1677029362997" duration="13527000" />
+      <workItem from="1677563189116" duration="5714000" />
+      <workItem from="1678073368705" duration="685000" />
+      <workItem from="1678180816138" duration="12463000" />
+      <workItem from="1678325897951" duration="13870000" />
+      <workItem from="1678435055964" duration="7261000" />
+      <workItem from="1678756270378" duration="3500000" />
+      <workItem from="1679564665260" duration="13343000" />
+      <workItem from="1679638275932" duration="4069000" />
+      <workItem from="1679647970733" duration="1488000" />
+      <workItem from="1679901609327" duration="2177000" />
+      <workItem from="1689837837172" duration="1840000" />
+      <workItem from="1690890042069" duration="3340000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1662707683459</created>
@@ -1220,7 +419,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666601871795</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="20221024提交更新">
+      <created>1675218027643</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675218027644</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1274,9 +480,9 @@
     <MESSAGE value="20221011提交更新" />
     <MESSAGE value="20221012提交更新" />
     <MESSAGE value="20221021提交更新" />
-    <MESSAGE value="20221024提交更新" />
     <MESSAGE value="20230201提交更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230201提交更新" />
+    <MESSAGE value="20221024提交更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="20221024提交更新" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1295,6 +501,10 @@
           <url>file://$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/CEP_12/NFAExample.java</url>
           <line>41</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../BigData_SoundCode/datahub-demo/src/Flink-datastreaming-1.0-SNAPSHOT-jar-with-dependencies.jar!/com/sunac/flink/util/DatahubSynchConfig.class</url>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/FlinkTest/src/main/java/com/yinjz/flink/CEP_12/NFAExample.java</url>
