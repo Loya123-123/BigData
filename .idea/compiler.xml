@@ -29,9 +29,9 @@
       <module name="gmall-publisher1" target="1.8" />
       <module name="gmall-realtime" target="1.8" />
       <module name="HadoopTest" target="1.8" />
-      <module name="HbaseTest" target="1.5" />
+      <module name="HbaseTest" target="8" />
       <module name="HiveTest" target="8" />
-      <module name="KafkaTest" target="1.5" />
+      <module name="KafkaTest" target="8" />
       <module name="redis_test" target="1.8" />
       <module name="SparkTest" target="1.8" />
       <module name="SpringBootBigData" target="1.8" />

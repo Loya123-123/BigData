@@ -44,12 +44,12 @@
             <version>${flink.version}</version>
         </dependency>
 
-        <dependency>
-            <groupId>com.alibaba.flink</groupId>
-            <artifactId>datahub-connector</artifactId>
-            <version>0.1-SNAPSHOT</version>
-            <classifier>jar-with-dependencies</classifier>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>com.alibaba.flink</groupId>-->
+<!--            <artifactId>datahub-connector</artifactId>-->
+<!--            <version>0.1-SNAPSHOT</version>-->
+<!--            <classifier>jar-with-dependencies</classifier>-->
+<!--        </dependency>-->
 
         <dependency>
             <groupId>org.apache.bahir</groupId>
