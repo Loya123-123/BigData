@@ -42,7 +42,6 @@
     <orderEntry type="library" name="Maven: org.javassist:javassist:3.24.0-GA" level="project" />
     <orderEntry type="library" name="Maven: org.xerial.snappy:snappy-java:1.1.8.3" level="project" />
     <orderEntry type="library" name="Maven: org.lz4:lz4-java:1.8.0" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.flink:flink-shaded-guava:30.1.1-jre-15.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.flink:flink-clients:1.15.3" level="project" />
     <orderEntry type="library" name="Maven: org.apache.flink:flink-optimizer:1.15.3" level="project" />
     <orderEntry type="library" name="Maven: commons-cli:commons-cli:1.5.0" level="project" />
@@ -50,6 +49,7 @@
     <orderEntry type="library" name="Maven: org.apache.flink:flink-connector-base:1.15.3" level="project" />
     <orderEntry type="library" name="Maven: org.apache.kafka:kafka-clients:2.8.1" level="project" />
     <orderEntry type="library" name="Maven: com.github.luben:zstd-jni:1.4.9-1" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba.flink:datahub-connector:jar-with-dependencies:0.1-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.apache.bahir:flink-connector-redis_2.11:1.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.flink:flink-streaming-java_2.11:1.2.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.flink:flink-runtime_2.11:1.2.0" level="project" />
@@ -79,6 +79,7 @@
     <orderEntry type="library" name="Maven: org.apache.flink:flink-clients_2.11:1.2.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.flink:flink-optimizer_2.11:1.2.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.sling:org.apache.sling.commons.json:2.0.6" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.flink:force-shading:1.2.0" level="project" />
     <orderEntry type="library" name="Maven: redis.clients:jedis:2.8.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.commons:commons-pool2:2.3" level="project" />
     <orderEntry type="library" name="Maven: org.apache.flink:flink-connector-elasticsearch6:1.15.3" level="project" />
@@ -125,10 +126,11 @@
     <orderEntry type="library" name="Maven: org.elasticsearch.plugin:lang-mustache-client:6.8.20" level="project" />
     <orderEntry type="library" name="Maven: com.github.spullara.mustache.java:compiler:0.9.3" level="project" />
     <orderEntry type="library" name="Maven: org.apache.flink:flink-connector-jdbc:1.15.3" level="project" />
-    <orderEntry type="library" name="Maven: mysql:mysql-connector-java:5.1.47" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.flink:flink-statebackend-rocksdb_2.12:1.13.0" level="project" />
-    <orderEntry type="library" name="Maven: com.data-artisans:frocksdbjni:5.17.2-artisans-2.0" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.flink:force-shading:1.13.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.doris:flink-doris-connector-1.15:1.2.1" level="project" />
+    <orderEntry type="library" name="Maven: mysql:mysql-connector-java:8.0.27" level="project" />
+    <orderEntry type="library" name="Maven: com.google.protobuf:protobuf-java:3.11.4" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.flink:flink-statebackend-rocksdb:1.15.3" level="project" />
+    <orderEntry type="library" name="Maven: com.ververica:frocksdbjni:6.20.3-ververica-1.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.flink:flink-table-api-java-bridge:1.15.3" level="project" />
     <orderEntry type="library" name="Maven: org.apache.flink:flink-table-api-java:1.15.3" level="project" />
     <orderEntry type="library" name="Maven: org.apache.flink:flink-table-common:1.15.3" level="project" />
@@ -145,7 +147,9 @@
     <orderEntry type="library" name="Maven: org.scala-lang:scala-library:2.12.7" level="project" />
     <orderEntry type="library" name="Maven: org.scala-lang:scala-compiler:2.12.7" level="project" />
     <orderEntry type="library" name="Maven: org.scala-lang.modules:scala-xml_2.12:1.0.6" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.flink:flink-shaded-guava:30.1.1-jre-15.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.flink:flink-csv:1.15.3" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.flink:flink-json:1.15.3" level="project" />
     <orderEntry type="library" name="Maven: org.apache.flink:flink-cep:1.15.3" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.30" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-log4j12:1.7.30" level="project" />
@@ -154,7 +158,7 @@
     <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-api:2.14.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.hadoop:hadoop-client:2.7.5" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.hadoop:hadoop-common:2.7.5" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: com.google.guava:guava:11.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:guava:11.0.2" level="project" />
     <orderEntry type="library" name="Maven: xmlenc:xmlenc:0.52" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: commons-httpclient:commons-httpclient:3.1" level="project" />
     <orderEntry type="library" name="Maven: commons-net:commons-net:3.1" level="project" />
@@ -168,7 +172,6 @@
     <orderEntry type="library" name="Maven: commons-beanutils:commons-beanutils-core:1.8.0" level="project" />
     <orderEntry type="library" name="Maven: org.codehaus.jackson:jackson-core-asl:1.9.13" level="project" />
     <orderEntry type="library" name="Maven: org.codehaus.jackson:jackson-mapper-asl:1.9.13" level="project" />
-    <orderEntry type="library" name="Maven: com.google.protobuf:protobuf-java:2.5.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: com.google.code.gson:gson:2.2.4" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.hadoop:hadoop-auth:2.7.5" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.directory.server:apacheds-kerberos-codec:2.0.0-M15" level="project" />
@@ -203,8 +206,58 @@
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.codehaus.jackson:jackson-xc:1.9.13" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.hadoop:hadoop-mapreduce-client-jobclient:2.7.5" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.hadoop:hadoop-annotations:2.7.5" level="project" />
-    <orderEntry type="library" name="Maven: com.ververica:flink-connector-mysql-cdc:2.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.ververica:flink-connector-mysql-cdc:2.3.0" level="project" />
+    <orderEntry type="library" name="Maven: com.ververica:flink-connector-debezium:2.3.0" level="project" />
+    <orderEntry type="library" name="Maven: io.debezium:debezium-api:1.6.4.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.debezium:debezium-embedded:1.6.4.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.kafka:connect-api:2.7.1" level="project" />
+    <orderEntry type="library" name="Maven: javax.ws.rs:javax.ws.rs-api:2.1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.kafka:connect-runtime:2.7.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.kafka:kafka-tools:2.7.1" level="project" />
+    <orderEntry type="library" name="Maven: net.sourceforge.argparse4j:argparse4j:0.7.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.kafka:connect-transforms:2.7.1" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:2.10.5" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:2.10.5" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.module:jackson-module-jaxb-annotations:2.10.5" level="project" />
+    <orderEntry type="library" name="Maven: jakarta.xml.bind:jakarta.xml.bind-api:2.3.2" level="project" />
+    <orderEntry type="library" name="Maven: jakarta.activation:jakarta.activation-api:1.2.1" level="project" />
+    <orderEntry type="library" name="Maven: org.glassfish.jersey.containers:jersey-container-servlet:2.31" level="project" />
+    <orderEntry type="library" name="Maven: org.glassfish.jersey.containers:jersey-container-servlet-core:2.31" level="project" />
+    <orderEntry type="library" name="Maven: org.glassfish.hk2.external:jakarta.inject:2.6.1" level="project" />
+    <orderEntry type="library" name="Maven: jakarta.ws.rs:jakarta.ws.rs-api:2.1.6" level="project" />
+    <orderEntry type="library" name="Maven: org.glassfish.jersey.inject:jersey-hk2:2.31" level="project" />
+    <orderEntry type="library" name="Maven: org.glassfish.hk2:hk2-locator:2.6.1" level="project" />
+    <orderEntry type="library" name="Maven: org.glassfish.hk2.external:aopalliance-repackaged:2.6.1" level="project" />
+    <orderEntry type="library" name="Maven: org.glassfish.hk2:hk2-api:2.6.1" level="project" />
+    <orderEntry type="library" name="Maven: org.glassfish.hk2:hk2-utils:2.6.1" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-server:9.4.38.v20210224" level="project" />
+    <orderEntry type="library" name="Maven: javax.servlet:javax.servlet-api:3.1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-http:9.4.38.v20210224" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-io:9.4.38.v20210224" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-servlet:9.4.38.v20210224" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-security:9.4.38.v20210224" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-util-ajax:9.4.38.v20210224" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-servlets:9.4.38.v20210224" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-continuation:9.4.38.v20210224" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-util:9.4.38.v20210224" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-client:9.4.38.v20210224" level="project" />
+    <orderEntry type="library" name="Maven: org.reflections:reflections:0.9.12" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.maven:maven-artifact:3.6.3" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.plexus:plexus-utils:3.2.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.kafka:connect-json:2.7.1" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.10.5" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.kafka:connect-file:2.7.1" level="project" />
+    <orderEntry type="library" name="Maven: io.debezium:debezium-connector-mysql:1.6.4.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.debezium:debezium-core:1.6.4.Final" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.10.5" level="project" />
+    <orderEntry type="library" name="Maven: io.debezium:debezium-ddl-parser:1.6.4.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.antlr:antlr4-runtime:4.8" level="project" />
+    <orderEntry type="library" name="Maven: com.zendesk:mysql-binlog-connector-java:0.25.3" level="project" />
+    <orderEntry type="library" name="Maven: com.esri.geometry:esri-geometry-api:2.2.0" level="project" />
+    <orderEntry type="library" name="Maven: com.zaxxer:HikariCP:4.0.3" level="project" />
+    <orderEntry type="library" name="Maven: org.awaitility:awaitility:4.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.hamcrest:hamcrest:2.1" level="project" />
     <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.75" level="project" />
-    <orderEntry type="library" name="Maven: org.projectlombok:lombok:1.18.24" level="project" />
+    <orderEntry type="library" name="Maven: org.projectlombok:lombok:1.18.28" level="project" />
   </component>
 </module>

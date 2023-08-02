@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AzkabanTest/AzkabanTest.iml" filepath="$PROJECT_DIR$/AzkabanTest/AzkabanTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/BigData.iml" filepath="$PROJECT_DIR$/.idea/BigData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DatahubTest/DatahubTest.iml" filepath="$PROJECT_DIR$/DatahubTest/DatahubTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/FlinkTest/FlinkTest.iml" filepath="$PROJECT_DIR$/FlinkTest/FlinkTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/HadoopTest/HadoopTest.iml" filepath="$PROJECT_DIR$/HadoopTest/HadoopTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/HbaseTest/HbaseTest.iml" filepath="$PROJECT_DIR$/HbaseTest/HbaseTest.iml" />
